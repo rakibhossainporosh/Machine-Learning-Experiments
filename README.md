@@ -21,6 +21,3 @@ This repository contains a mix of core Python programming and advanced ML algori
 - **Language:** Python 3
 - **Environment:** Jupyter Notebook
 - **Libraries (Commonly used):** Scikit-Learn, Pandas, NumPy, Matplotlib
-
-## 👨‍💻 About
-I am a Software Engineer exploring the world of data and intelligent systems. Feel free to explore the code, use it for your learning, or connect with me to discuss tech!
